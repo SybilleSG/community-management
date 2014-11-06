@@ -20,40 +20,40 @@ msgstr ""
 #: model:ir.actions.act_window,name:base_community.action_community_configuration
 #: model:ir.ui.menu,name:base_community.menu_community_admin_configuration
 msgid "Community"
-msgstr ""
+msgstr "Communauté"
 
 #. module: base_community
 #: model:ir.model,name:base_community.model_community_config_settings
 msgid "Community configuration"
-msgstr ""
+msgstr "Configuration de Communauté"
 
 #. module: base_community
 #: view:community.config.settings:base_community.view_community_configuration
 msgid "Configure Community"
-msgstr ""
+msgstr "Configurer la Communauté"
 
 #. module: base_community
 #: field:community.config.settings,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Créée par"
 
 #. module: base_community
 #: field:community.config.settings,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Créée le"
 
 #. module: base_community
 #: field:community.config.settings,id:0
 msgid "ID"
-msgstr ""
+msgstr "Id."
 
 #. module: base_community
 #: field:community.config.settings,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Dernière mise à jour par"
 
 #. module: base_community
 #: field:community.config.settings,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Dernière mise à jour le"
 
