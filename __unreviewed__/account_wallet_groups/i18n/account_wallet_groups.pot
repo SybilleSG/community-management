@@ -18,17 +18,17 @@ msgstr ""
 #. module: account_wallet_groups
 #: model:ir.model,name:account_wallet_groups.model_mail_group
 msgid "Discussion group"
-msgstr ""
+msgstr "Groupe de discussion"
 
 #. module: account_wallet_groups
 #: field:mail.group,partner_wallet_ids:0
 msgid "Partners Wallet"
-msgstr ""
+msgstr "Portefeuille partenaires"
 
 #. module: account_wallet_groups
 #: model:ir.model,name:account_wallet_groups.model_account_wallet_transaction
 msgid "Transaction"
-msgstr ""
+msgstr "Transaction"
 
 #. module: account_wallet_groups
 #: view:account.wallet.transaction:account_wallet_groups.view_account_wallet_transaction_form_admin_groups
