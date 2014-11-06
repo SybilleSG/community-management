@@ -18,37 +18,37 @@ msgstr ""
 #. module: base_recursive_model
 #: field:base.config.inherit.line,action:0
 msgid "Action"
-msgstr ""
+msgstr "Action"
 
 #. module: base_recursive_model
 #: selection:base.config.inherit.line,action:0
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 #. module: base_recursive_model
 #: field:base.config.inherit.model,base_config_inherit_line_del_ids:0
 msgid "Configuration line deleted"
-msgstr ""
+msgstr "Ligne de configuration supprimée"
 
 #. module: base_recursive_model
 #: field:base.config.inherit.line.del,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Créé par"
 
 #. module: base_recursive_model
 #: field:base.config.inherit.line.del,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Créé le"
 
 #. module: base_recursive_model
 #: constraint:base.recursive.model:0
-msgid "Error ! You can not create recursive categories."
-msgstr ""
+msgid "Error! You can not create recursive categories."
+msgstr "Erreur ! Vous ne pouvez pas créer de catégories récurcives"
 
 #. module: base_recursive_model
 #: field:base.recursive.model,complete_name:0
 msgid "Full Name"
-msgstr ""
+msgstr "Nom complet"
 
 #. module: base_recursive_model
 #: field:base.config.inherit.line,id:0
@@ -56,57 +56,57 @@ msgstr ""
 #: field:base.config.inherit.model,id:0
 #: field:base.recursive.model,id:0
 msgid "ID"
-msgstr ""
+msgstr "Id."
 
 #. module: base_recursive_model
 #: field:base.config.inherit.line.del,key:0
 msgid "Key"
-msgstr ""
+msgstr "Clé"
 
 #. module: base_recursive_model
 #: field:base.config.inherit.line.del,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Dernière mise à jour par"
 
 #. module: base_recursive_model
 #: field:base.config.inherit.line.del,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Dernière mise à jour le"
 
 #. module: base_recursive_model
 #: field:base.recursive.model,parent_left:0
 msgid "Left parent"
-msgstr ""
+msgstr "Parent gauche"
 
 #. module: base_recursive_model
 #: field:base.config.inherit.line,res_id:0
 #: field:base.config.inherit.line.del,res_id:0
 msgid "Related Document ID"
-msgstr ""
+msgstr "Id. du document lié"
 
 #. module: base_recursive_model
 #: field:base.config.inherit.line,model:0
 #: field:base.config.inherit.line.del,model:0
 msgid "Related Document Model"
-msgstr ""
+msgstr "Modèle de docuement lié"
 
 #. module: base_recursive_model
 #: selection:base.config.inherit.line,action:0
 msgid "Remove"
-msgstr ""
+msgstr "Oter"
 
 #. module: base_recursive_model
 #: field:base.recursive.model,parent_right:0
 msgid "Right parent"
-msgstr ""
+msgstr "Parent droit"
 
 #. module: base_recursive_model
 #: field:base.config.inherit.line,sequence:0
 msgid "Sequence"
-msgstr ""
+msgstr "Séquence"
 
 #. module: base_recursive_model
 #: field:base.config.inherit.line,stored:0
 msgid "Stored?"
-msgstr ""
+msgstr "Archivé ?"
 
