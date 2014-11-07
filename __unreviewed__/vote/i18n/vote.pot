@@ -18,47 +18,47 @@ msgstr ""
 #. module: vote
 #: selection:vote.vote.line,vote:0
 msgid "-1"
-msgstr ""
+msgstr "-1"
 
 #. module: vote
 #: selection:vote.vote.line,vote:0
 msgid "-2"
-msgstr ""
+msgstr "-2"
 
 #. module: vote
 #: field:vote.config.line,action:0
 msgid "Action"
-msgstr ""
+msgstr "Action"
 
 #. module: vote
 #: selection:vote.config.line,action:0
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 #. module: vote
 #: field:vote.model,vote_average:0
-msgid "Average vote"
-msgstr ""
+msgid "Average feedback"
+msgstr "Moyenne des avis"
 
 #. module: vote
 #: field:vote.vote,comment:0
 msgid "Comment"
-msgstr ""
+msgstr "Commentaire"
 
 #. module: vote
 #: model:ir.model,name:vote.model_community_config_settings
 msgid "Community configuration"
-msgstr ""
+msgstr "Configuration de la Communauté"
 
 #. module: vote
 #: field:vote.category,base_config_inherit_line_del_ids:0
 msgid "Configuration line deleted"
-msgstr ""
+msgstr "Ligne de configuration supprimée"
 
 #. module: vote
 #: field:vote.vote,create_date:0
 msgid "Create date"
-msgstr ""
+msgstr "Date de création"
 
 #. module: vote
 #: field:vote.config.line,create_uid:0
@@ -67,7 +67,7 @@ msgstr ""
 #: field:vote.vote,create_uid:0
 #: field:vote.vote.line,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Créé par"
 
 #. module: vote
 #: field:vote.config.line,create_date:0
@@ -75,13 +75,13 @@ msgstr ""
 #: field:vote.type,create_date:0
 #: field:vote.vote.line,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Créé le"
 
 #. module: vote
 #: field:res.partner,vote_evaluated_id:0
 #: field:vote.vote,evaluated_object_ids:0
 msgid "Evaluated"
-msgstr ""
+msgstr "Avisé"
 
 #. module: vote
 #: field:vote.category,id:0
@@ -92,17 +92,17 @@ msgstr ""
 #: field:vote.vote,id:0
 #: field:vote.vote.line,id:0
 msgid "ID"
-msgstr ""
+msgstr "Id."
 
 #. module: vote
 #: view:res.partner:vote.view_partner_form_vote
 msgid "Internal Notes"
-msgstr ""
+msgstr "Notes internes"
 
 #. module: vote
 #: field:vote.vote,is_complete:0
 msgid "Is complete?"
-msgstr ""
+msgstr "Est complet ?"
 
 #. module: vote
 #: field:vote.config.line,write_uid:0
@@ -111,7 +111,7 @@ msgstr ""
 #: field:vote.vote,write_uid:0
 #: field:vote.vote.line,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Dernière mise à jour par"
 
 #. module: vote
 #: field:vote.config.line,write_date:0
@@ -120,93 +120,93 @@ msgstr ""
 #: field:vote.vote,write_date:0
 #: field:vote.vote.line,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Dernière mise à jour le"
 
 #. module: vote
 #: view:community.config.settings:vote.view_community_configuration_vote
 #: view:vote.config.line:vote.view_vote_config_line_form
 msgid "Line"
-msgstr ""
+msgstr "Ligne"
 
 #. module: vote
 #: view:community.config.settings:vote.view_community_configuration_vote
 #: field:community.config.settings,vote_line_ids:0
 #: field:vote.vote,line_ids:0
 msgid "Lines"
-msgstr ""
+msgstr "Lignes"
 
 #. module: vote
 #: field:vote.vote.line,model:0
 msgid "Model"
-msgstr ""
+msgstr "Modèle"
 
 #. module: vote
 #: field:vote.config.line,name:0
 #: field:vote.type,name:0
 #: field:vote.vote,res_name:0
-msgid "Name"
-msgstr ""
+msgid "Title"
+msgstr "Title"
 
 #. module: vote
 #: field:vote.vote,model_name:0
 msgid "Object"
-msgstr ""
+msgstr "Objet"
 
 #. module: vote
 #: model:ir.model,name:vote.model_res_partner
 #: field:vote.vote,partner_id:0
 #: field:vote.vote.line,partner_id:0
 msgid "Partner"
-msgstr ""
+msgstr "Partenaire"
 
 #. module: vote
 #: field:vote.config.line,res_id:0
 #: field:vote.vote,res_id:0
 #: field:vote.vote.line,res_id:0
 msgid "Related Document ID"
-msgstr ""
+msgstr "Id. du document correspondant"
 
 #. module: vote
 #: field:vote.config.line,model:0
 #: field:vote.vote,model:0
 msgid "Related Document Model"
-msgstr ""
+msgstr "Modèle du document correspondant"
 
 #. module: vote
 #: selection:vote.config.line,action:0
 msgid "Remove"
-msgstr ""
+msgstr "Oter"
 
 #. module: vote
 #: field:vote.config.line,sequence:0
 msgid "Sequence"
-msgstr ""
+msgstr "Séquence"
 
 #. module: vote
 #: field:vote.config.line,stored:0
 msgid "Stored?"
-msgstr ""
+msgstr "Stocké ?"
 
 #. module: vote
 #: field:vote.config.line,target_model:0
 msgid "Target model"
-msgstr ""
+msgstr "Modéle cible"
 
 #. module: vote
 #: field:vote.model,vote_total:0
-msgid "Total vote"
-msgstr ""
+msgid "Total Feedback"
+msgstr "Total des avis"
 
 #. module: vote
 #: view:vote.type:vote.view_vote_type_form
 #: field:vote.vote.line,type_id:0
 msgid "Type"
-msgstr ""
+msgstr "Type"
 
 #. module: vote
 #: view:vote.type:vote.view_vote_type_tree
 msgid "Types"
-msgstr ""
+msgstr "Types"
 
 #. module: vote
 #: view:community.config.settings:vote.view_community_configuration_vote
@@ -216,50 +216,50 @@ msgstr ""
 #: view:vote.vote:vote.view_vote_vote_form
 #: field:vote.vote.line,vote:0
 #: field:vote.vote.line,vote_id:0
-msgid "Vote"
-msgstr ""
+msgid "Feedback"
+msgstr "Avis"
 
 #. module: vote
 #: model:ir.model,name:vote.model_vote_category
-msgid "Vote Category"
-msgstr ""
+msgid "Feedback Category"
+msgstr "Catégorie d'Avis"
 
 #. module: vote
 #: model:ir.model,name:vote.model_vote_model
-msgid "Vote Model"
-msgstr ""
+msgid "Feedback Model"
+msgstr "Modèle d'Avis"
 
 #. module: vote
 #: field:vote.category,vote_config_result_ids:0
-msgid "Vote Types"
-msgstr ""
+msgid "Feedback Types"
+msgstr "Types d'Avis"
 
 #. module: vote
 #: field:vote.category,vote_config_ids:0
-msgid "Vote configuration"
-msgstr ""
+msgid "Feedback configuration"
+msgstr "Configuration des Avis"
 
 #. module: vote
 #: model:ir.model,name:vote.model_vote_vote_line
-msgid "Vote line"
-msgstr ""
+msgid "Feedback line"
+msgstr "Ligne d'Avis"
 
 #. module: vote
 #: model:ir.actions.act_window,name:vote.action_vote_type
 #: model:ir.ui.menu,name:vote.menu_vote_type
 #: view:vote.config.line:vote.view_vote_config_line_tree
-msgid "Vote types"
-msgstr ""
+msgid "Feedback types"
+msgstr "Types d'Avis"
 
 #. module: vote
 #: field:vote.model,vote_user_ids:0
-msgid "Vote users"
-msgstr ""
+msgid "Feedback users"
+msgstr "Avis des utilisateurs"
 
 #. module: vote
 #: field:vote.model,vote_voters:0
-msgid "Voters"
-msgstr ""
+msgid "Feedbackers"
+msgstr "Aviseurs"
 
 #. module: vote
 #: view:res.partner:vote.view_partner_form_vote
@@ -271,18 +271,18 @@ msgstr ""
 #: view:vote.vote:vote.view_vote_vote_tree
 #: field:vote.vote,line_string:0
 #: view:vote.vote.line:vote.view_vote_vote_line_tree
-msgid "Votes"
-msgstr ""
+msgid "Feedbacks"
+msgstr "Avis"
 
 #. module: vote
 #: sql_constraint:vote.vote:0
-msgid "We can only have one vote per record per partner"
-msgstr ""
+msgid "You can only have one Feedback per record per Partner"
+msgstr "Vous ne pouvez avoir qu'un seul Avis par Partenaire""
 
 #. module: vote
 #: sql_constraint:vote.vote.line:0
-msgid "We can only have one vote per vote per type"
-msgstr ""
+msgid "You can only have one Feedback per Type"
+msgstr "Vous ne pouvez avoir qu'un seul Avis par Type"
 
 #. module: vote
 #: view:vote.vote:vote.view_vote_vote_form_admin
