@@ -17,5 +17,5 @@ msgstr ""
 #. module: community_marketplace
 #: model:ir.model,name:community_marketplace.model_res_groups
 msgid "Access Groups"
-msgstr ""
+msgstr "Accès aux groupes"
 
