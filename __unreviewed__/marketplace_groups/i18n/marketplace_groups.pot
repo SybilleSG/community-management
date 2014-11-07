@@ -18,87 +18,87 @@ msgstr ""
 #. module: marketplace_groups
 #: field:mail.group,community_percent:0
 msgid "% Community"
-msgstr ""
+msgstr "% Communauté"
 
 #. module: marketplace_groups
 #: field:mail.group,real_percent:0
 msgid "% Real"
-msgstr ""
+msgstr "% Réel"
 
 #. module: marketplace_groups
 #: field:marketplace.announcement,community_group_commission:0
 msgid "% group commission community"
-msgstr ""
+msgstr "% Commission du groupe Communauté"
 
 #. module: marketplace_groups
 #: field:marketplace.announcement,real_group_commission:0
 msgid "% group commission real"
-msgstr ""
+msgstr "% Commission du groupe Réel"
 
 #. module: marketplace_groups
 #: field:mail.group,marketplace:0
 msgid "Can be used in marketplace?"
-msgstr ""
+msgstr "Peut être utilisé dans la Place de marché ?"
 
 #. module: marketplace_groups
 #: field:mail.group,can_have_commission:0
-msgid "Can have commission?"
-msgstr ""
+msgid "Can collect commission?"
+msgstr "Peut collecter une commission"
 
 #. module: marketplace_groups
 #: model:ir.model,name:marketplace_groups.model_mail_group
 msgid "Discussion group"
-msgstr ""
+msgstr "Groupe de discussion"
 
 #. module: marketplace_groups
 #: field:marketplace.announcement,from_group:0
 #: field:marketplace.proposition,from_group:0
-msgid "From group?"
-msgstr ""
+msgid "On behalf of group"
+msgstr "Au nom du groupe"
 
 #. module: marketplace_groups
 #: field:marketplace.announcement,group_id:0
 #: field:marketplace.proposition,group_id:0
 msgid "Group"
-msgstr ""
+msgstr "Groupe"
 
 #. module: marketplace_groups
 #: field:marketplace.announcement,context_group_ids:0
 msgid "Groups"
-msgstr ""
+msgstr "Groupes"
 
 #. module: marketplace_groups
 #: view:marketplace.announcement:0
 msgid "Groups..."
-msgstr ""
+msgstr "Groupes..."
 
 #. module: marketplace_groups
 #: field:res.partner,is_group:0
 msgid "Is a group"
-msgstr ""
+msgstr "Est un groupe"
 
 #. module: marketplace_groups
 #: model:ir.ui.menu,name:marketplace_groups.menu_marketplace_my_market_my_groups
 #: view:marketplace.announcement:0
 msgid "My groups"
-msgstr ""
+msgstr "Mes groupes"
 
 #. module: marketplace_groups
 #: model:ir.model,name:marketplace_groups.model_marketplace_announcement
 msgid "Offer/Want"
-msgstr ""
+msgstr "Offre/demande"
 
 #. module: marketplace_groups
 #: model:ir.actions.act_window,name:marketplace_groups.action_marketplace_announcement_my_market_my_groups_offers
 #: model:ir.ui.menu,name:marketplace_groups.menu_action_marketplace_announcement_my_market_my_groups_offers
 msgid "Offers"
-msgstr ""
+msgstr "Offres"
 
 #. module: marketplace_groups
 #: model:ir.model,name:marketplace_groups.model_res_partner
 #: field:mail.group,partner_id:0
 msgid "Partner"
-msgstr ""
+msgstr "Partenaire"
 
 #. module: marketplace_groups
 #: model:ir.actions.act_window,name:marketplace_groups.action_marketplace_announcement_the_market_the_offers_per_group
@@ -108,33 +108,33 @@ msgstr ""
 #: model:ir.ui.menu,name:marketplace_groups.menu_action_marketplace_announcement_the_market_the_wants_per_group
 #: model:ir.ui.menu,name:marketplace_groups.menu_action_marketplace_the_market_transactions_per_group
 msgid "Per group"
-msgstr ""
+msgstr "Par groupe"
 
 #. module: marketplace_groups
 #: model:ir.model,name:marketplace_groups.model_marketplace_proposition
 msgid "Proposition"
-msgstr ""
+msgstr "Proposition"
 
 #. module: marketplace_groups
 #: model:ir.actions.act_window,name:marketplace_groups.action_marketplace_proposition_my_market_my_groups_transactions
 #: model:ir.ui.menu,name:marketplace_groups.menu_action_marketplace_proposition_my_market_my_groups_transactions
 msgid "Transactions"
-msgstr ""
+msgstr "Transactions"
 
 #. module: marketplace_groups
 #: model:ir.actions.act_window,name:marketplace_groups.action_marketplace_announcement_my_market_my_groups_wants
 #: model:ir.ui.menu,name:marketplace_groups.menu_action_marketplace_announcement_my_market_my_groups_wants
 msgid "Wants"
-msgstr ""
+msgstr ""Demandes"
 
 #. module: marketplace_groups
 #: view:marketplace.announcement:0
 #: view:marketplace.proposition:0
 msgid "{'invisible': ['|',('from_group','=',True),('from_company', '=', True)]}"
-msgstr ""
+msgstr "{'invisible': ['|',('from_group','=',True),('from_company', '=', True)]}"
 
 #. module: marketplace_groups
 #: view:marketplace.announcement:0
 msgid "{'invisible': [('is_user','=',True),('from_group','!=',True)]}"
-msgstr ""
+msgstr "{'invisible': [('is_user','=',True),('from_group','!=',True)]}"
 
