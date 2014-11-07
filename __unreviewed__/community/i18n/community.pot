@@ -18,104 +18,104 @@ msgstr ""
 #. module: community
 #: model:ir.model,name:community.model_res_groups
 msgid "Access Groups"
-msgstr ""
+msgstr "Accès aux groupes"
 
 #. module: community
 #: view:community.module.config.settings:community.view_config_settings
 msgid "Apply"
-msgstr ""
+msgstr "Appliquer"
 
 #. module: community
 #: view:community.module.config.settings:community.view_config_settings
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #. module: community
 #: field:community.module.config.settings,wallet_chart:0
 msgid "Centralbank Chart"
-msgstr ""
+msgstr "Graphique du Compte central"
 
 #. module: community
 #: view:community.module.config.settings:community.view_config_settings
 #: model:ir.module.category,name:community.module_category_community
 #: model:ir.ui.menu,name:community.menu_community_admin_configuration
 msgid "Community"
-msgstr ""
+msgstr "Communauté"
 
 #. module: community
 #: model:res.groups,name:community.group_community_administrator
 msgid "Community / Administrator"
-msgstr ""
+msgstr "Communauté / Administrateur"
 
 #. module: community
 #: model:res.groups,name:community.group_community_user
 msgid "Community / User"
-msgstr ""
+msgstr "Communauté / Utilisateur"
 
 #. module: community
 #: view:community.module.config.settings:community.view_config_settings
 msgid "Community Management"
-msgstr ""
+msgstr "Gestion de la Communauté"
 
 #. module: community
 #: model:ir.actions.act_window,name:community.action_config_settings
 #: model:ir.ui.menu,name:community.menu_action_config_settings_association
 #: model:ir.ui.menu,name:community.menu_action_config_settings_configuration
 msgid "Community modules"
-msgstr ""
+msgstr "Modules de la Communauté"
 
 #. module: community
 #: view:community.module.config.settings:community.view_config_settings
 msgid "Configure Community modules"
-msgstr ""
+msgstr "Configurer les modules de la Communauté"
 
 #. module: community
 #: field:community.init,create_uid:0
 #: field:community.module.config.settings,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Créé par"
 
 #. module: community
 #: field:community.init,create_date:0
 #: field:community.module.config.settings,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Créé le"
 
 #. module: community
 #: selection:community.module.config.settings,wallet_chart:0
-msgid "French chart of account"
-msgstr ""
+msgid "Chart of accounts"
+msgstr "Plan comptable"
 
 #. module: community
 #: field:community.init,id:0
 #: field:community.module.config.settings,id:0
 msgid "ID"
-msgstr ""
+msgstr "Id."
 
 #. module: community
 #: field:community.module.config.settings,module_community_crm:0
-msgid "Install CRM"
-msgstr ""
+msgid "Install CRM module"
+msgstr "Installer le module CRM"
 
 #. module: community
 #: field:community.module.config.settings,module_community_blog:0
-msgid "Install blog"
-msgstr ""
+msgid "Install Blog module"
+msgstr "Installer le module Blog"
 
 #. module: community
 #: field:community.module.config.settings,module_community_event:0
-msgid "Install event"
-msgstr ""
+msgid "Install Event module"
+msgstr "Installer le module Evénement"
 
 #. module: community
 #: field:community.module.config.settings,module_community_forum:0
-msgid "Install forum"
-msgstr ""
+msgid "Install Forum module"
+msgstr "Installer le module Forum"
 
 #. module: community
 #: field:community.module.config.settings,module_community_marketplace:0
-msgid "Install marketplace"
-msgstr ""
+msgid "Install Marketplace module"
+msgstr "Installer le module Place de marché"
 
 #. module: community
 #: field:community.module.config.settings,module_community_project:0
@@ -126,16 +126,16 @@ msgstr ""
 #: field:community.init,write_uid:0
 #: field:community.module.config.settings,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Dernière mise à jour par"
 
 #. module: community
 #: field:community.init,write_date:0
 #: field:community.module.config.settings,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Dernière mise à jour le"
 
 #. module: community
 #: model:ir.module.category,description:community.module_category_community
 msgid "Transform Odoo into a powerfull community management tool."
-msgstr ""
+msgstr "Transformer Odoo en un outil puissant de gestion de communauté"
 
