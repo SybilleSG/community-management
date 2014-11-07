@@ -17,5 +17,5 @@ msgstr ""
 #. module: community_event
 #: model:ir.model,name:community_event.model_res_groups
 msgid "Access Groups"
-msgstr ""
+msgstr "Accès qux groupes"
 
