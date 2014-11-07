@@ -18,92 +18,92 @@ msgstr ""
 #. module: project_marketplace
 #: field:project.task,announcement_id:0
 msgid "Announcement"
-msgstr ""
+msgstr "Annonce"
 
 #. module: project_marketplace
 #: view:project.task:project_marketplace.view_project_task_form_marketplace
 msgid "Create announcement"
-msgstr ""
+msgstr "Créer une Annonce"
 
 #. module: project_marketplace
 #: code:addons/project_marketplace/project_marketplace.py:74
 #, python-format
 msgid "Data error!"
-msgstr ""
+msgstr "Erreur de données !"
 
 #. module: project_marketplace
 #: help:project.task,announcement_creator_id:0
 msgid "If empty, the assigned partner will be used"
-msgstr ""
+msgstr "Si c'est vide, le partenaire attribué sera utilisé"
 
 #. module: project_marketplace
 #: selection:project.assigned.partner.config,marketplace_assignment:0
 #: selection:project.task.type,marketplace_assignment:0
 msgid "Invoicer"
-msgstr ""
+msgstr "Factureur"
 
 #. module: project_marketplace
 #: model:ir.model,name:project_marketplace.model_marketplace_announcement
 msgid "Offer/Want"
-msgstr ""
+msgstr "Offre/Demande"
 
 #. module: project_marketplace
 #: selection:project.assigned.partner.config,marketplace_assignment:0
 #: selection:project.task.type,marketplace_assignment:0
 msgid "Payer"
-msgstr ""
+msgstr "Payeur"
 
 #. module: project_marketplace
 #: field:marketplace.proposition,planned_hours:0
 msgid "Planned Hours"
-msgstr ""
+msgstr "Heures prévues"
 
 #. module: project_marketplace
 #: model:ir.model,name:project_marketplace.model_project_project
 msgid "Project"
-msgstr ""
+msgstr "Projet"
 
 #. module: project_marketplace
 #: model:ir.model,name:project_marketplace.model_marketplace_proposition
 #: field:project.task,proposition_id:0
 msgid "Proposition"
-msgstr ""
+msgstr "Proposition"
 
 #. module: project_marketplace
 #: model:ir.model,name:project_marketplace.model_project_task
 #: field:marketplace.announcement,task_id:0
 msgid "Task"
-msgstr ""
+msgstr "Tâches"
 
 #. module: project_marketplace
 #: model:ir.model,name:project_marketplace.model_project_task_type
 msgid "Task Stage"
-msgstr ""
+msgstr "Etape de Tâche"
 
 #. module: project_marketplace
 #: field:project.assigned.partner.config,marketplace_assignment:0
 #: field:project.task.type,marketplace_assignment:0
-msgid "Use assignment from marketplace"
-msgstr ""
+msgid "Post a Want on Marketplace"
+msgstr "Poster une Demande sur la Place de marché "
 
 #. module: project_marketplace
 #: field:marketplace.proposition,task_want_id:0
 msgid "We need your help for"
-msgstr ""
+msgstr "Nous avons besoin de votre aide pour"
 
 #. module: project_marketplace
 #: field:project.task,announcement_creator_id:0
-msgid "Who whill create the announcement?"
-msgstr ""
+msgid "Who whill create the Announcement?"
+msgstr "Qui va créer l'Annonce ?"
 
 #. module: project_marketplace
 #: field:marketplace.proposition,task_id:0
 msgid "Work to do"
-msgstr ""
+msgstr "Actions à mener"
 
 #. module: project_marketplace
 #: code:addons/project_marketplace/project_marketplace.py:75
 #, python-format
-msgid "You need to specify the creator of the announcement!"
-msgstr ""
+msgid "You need to specify the author of the announcement!"
+msgstr "Vous devez spécifier l'auteur de l'annonce !"
 
