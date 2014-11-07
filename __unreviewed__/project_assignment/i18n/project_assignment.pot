@@ -18,17 +18,17 @@ msgstr ""
 #. module: project_assignment
 #: field:project.assigned.partner.config,action:0
 msgid "Action"
-msgstr ""
+msgstr "Action"
 
 #. module: project_assignment
 #: selection:project.assigned.partner.config,action:0
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 #. module: project_assignment
 #: view:project.task:project_assignment.view_project_task_form_assignpartner
 msgid "Assign Partner"
-msgstr ""
+msgstr "Partenaire atrribué"
 
 #. module: project_assignment
 #: view:project.assigned.partner.config:project_assignment.view_project_assigned_partner_config_form
@@ -37,135 +37,135 @@ msgstr ""
 #: field:project.project,assigned_partner_config_result_ids:0
 #: field:project.task,assigned_partner_config_result_ids:0
 msgid "Assigned Partner"
-msgstr ""
+msgstr "Partenaire atrribué"
 
 #. module: project_assignment
 #: field:project.assigned.partner.model,assigned_partner_config_ids:0
 #: field:project.project,assigned_partner_config_ids:0
 #: field:project.task,assigned_partner_config_ids:0
 msgid "Assigned Partner configuration"
-msgstr ""
+msgstr "Configuration du Partenaire atrribué"
 
 #. module: project_assignment
 #: field:project.task.type,partner_id:0
 msgid "Assigned partner"
-msgstr ""
+msgstr "Partenaire atrribué"
 
 #. module: project_assignment
 #: view:project.assigned.partner.config:project_assignment.view_project_assigned_partner_config_tree
 msgid "Assigned partners"
-msgstr ""
+msgstr "Partenaires atrribués"
 
 #. module: project_assignment
 #: field:project.task,assigned_partner_id:0
 msgid "Assigned to"
-msgstr ""
+msgstr "Attribué à"
 
 #. module: project_assignment
 #: field:project.assigned.partner.model,base_config_inherit_line_del_ids:0
 #: field:project.project,base_config_inherit_line_del_ids:0
 #: field:project.task,base_config_inherit_line_del_ids:0
 msgid "Configuration line deleted"
-msgstr ""
+msgstr "Configuration des lignes supprimées"
 
 #. module: project_assignment
 #: field:project.assigned.partner.config,create_uid:0
 msgid "Created by"
-msgstr ""
+msgstr "Créé par"
 
 #. module: project_assignment
 #: field:project.assigned.partner.config,create_date:0
 msgid "Created on"
-msgstr ""
+msgstr "Créé le"
 
 #. module: project_assignment
 #: view:project.task:project_assignment.view_project_task_form_assignpartner
 msgid "Extra Info"
-msgstr ""
+msgstr "Information complémentaire"
 
 #. module: project_assignment
 #: field:project.assigned.partner.config,id:0
 #: field:project.assigned.partner.model,id:0
 msgid "ID"
-msgstr ""
+msgstr "Id."
 
 #. module: project_assignment
 #: field:project.assigned.partner.config,write_uid:0
 msgid "Last Updated by"
-msgstr ""
+msgstr "Dernière Mise à jour par"
 
 #. module: project_assignment
 #: field:project.assigned.partner.config,write_date:0
 msgid "Last Updated on"
-msgstr ""
+msgstr "Dernière mise à jour le"
 
 #. module: project_assignment
 #: field:project.project,manager_partner_id:0
 msgid "Manager"
-msgstr ""
+msgstr "Gestionnaire"
 
 #. module: project_assignment
 #: view:project.task:project_assignment.view_project_task_search_assignpartner
 msgid "My Reviews"
-msgstr ""
+msgstr "Mes commentaires"
 
 #. module: project_assignment
 #: view:project.task:project_assignment.view_project_task_search_assignpartner
 msgid "My Tasks"
-msgstr ""
+msgstr "Mes Tâches"
 
 #. module: project_assignment
 #: model:ir.model,name:project_assignment.model_project_project
 msgid "Project"
-msgstr ""
+msgstr "Projet"
 
 #. module: project_assignment
 #: field:project.assigned.partner.config,res_id:0
 msgid "Related Document ID"
-msgstr ""
+msgstr "Id. du document correspondant"
 
 #. module: project_assignment
 #: field:project.assigned.partner.config,model:0
 msgid "Related Document Model"
-msgstr ""
+msgstr "Modèle du document correspondant"
 
 #. module: project_assignment
 #: selection:project.assigned.partner.config,action:0
 msgid "Remove"
-msgstr ""
+msgstr "Oter"
 
 #. module: project_assignment
 #: field:project.task,reviewer_partner_id:0
 msgid "Reviewer"
-msgstr ""
+msgstr "Réviseur"
 
 #. module: project_assignment
 #: field:project.assigned.partner.config,sequence:0
 msgid "Sequence"
-msgstr ""
+msgstr "Séquence"
 
 #. module: project_assignment
 #: field:project.assigned.partner.config,stage_id:0
 msgid "Stage"
-msgstr ""
+msgstr "Etape"
 
 #. module: project_assignment
 #: field:project.assigned.partner.config,stored:0
 msgid "Stored?"
-msgstr ""
+msgstr "Stocké"
 
 #. module: project_assignment
 #: model:ir.model,name:project_assignment.model_project_task
 msgid "Task"
-msgstr ""
+msgstr "Tâche"
 
 #. module: project_assignment
 #: model:ir.model,name:project_assignment.model_project_task_type
 msgid "Task Stage"
-msgstr ""
+msgstr "Etape de tâche"
 
 #. module: project_assignment
 #: view:project.task:project_assignment.view_project_task_search_assignpartner
 msgid "Unassigned"
-msgstr ""
+msgstr "Non attribué"
 
