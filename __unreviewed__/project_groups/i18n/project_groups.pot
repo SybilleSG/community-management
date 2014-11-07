@@ -18,29 +18,29 @@ msgstr ""
 #. module: marketplace_groups
 #: field:marketplace.announcement,context_group_ids:0
 msgid "Groups"
-msgstr ""
+msgstr "Groupes"
 
 #. module: marketplace_groups
 #: view:marketplace.announcement:marketplace_groups.view_marketplace_announcement_form_groups
 msgid "Groups..."
-msgstr ""
+msgstr "Groupes..."
 
 #. module: marketplace_groups
 #: model:ir.ui.menu,name:marketplace_groups.menu_marketplace_my_market_my_groups
 #: view:marketplace.announcement:marketplace_groups.view_marketplace_announcement_search_groups
 msgid "My groups"
-msgstr ""
+msgstr "Mes groupes"
 
 #. module: marketplace_groups
 #: model:ir.model,name:marketplace_groups.model_marketplace_announcement
 msgid "Offer/Want"
-msgstr ""
+msgstr "Offre/Demande"
 
 #. module: marketplace_groups
 #: model:ir.actions.act_window,name:marketplace_groups.action_mkp_announ_my_market_my_groups_offers
 #: model:ir.ui.menu,name:marketplace_groups.menu_action_mkp_announ_my_market_my_groups_offers
 msgid "Offers"
-msgstr ""
+msgstr "Offres"
 
 #. module: marketplace_groups
 #: model:ir.actions.act_window,name:marketplace_groups.action_marketplace_the_market_transactions_per_group
@@ -50,19 +50,19 @@ msgstr ""
 #: model:ir.ui.menu,name:marketplace_groups.menu_action_mkp_announ_the_market_the_offers_per_group
 #: model:ir.ui.menu,name:marketplace_groups.menu_action_mkp_announ_the_market_the_wants_per_group
 msgid "Per group"
-msgstr ""
+msgstr "Par groupe"
 
 #. module: marketplace_groups
 #: model:ir.actions.act_window,name:marketplace_groups.action_mkp_prop_my_market_my_groups_transactions
 #: model:ir.ui.menu,name:marketplace_groups.menu_action_mkp_prop_my_market_my_groups_transactions
 msgid "Transactions"
-msgstr ""
+msgstr "Transactions"
 
 #. module: marketplace_groups
 #: model:ir.actions.act_window,name:marketplace_groups.action_mkp_announ_my_market_my_groups_wants
 #: model:ir.ui.menu,name:marketplace_groups.menu_action_mkp_announ_my_market_my_groups_wants
 msgid "Wants"
-msgstr ""
+msgstr "Demandes"
 
 #. module: marketplace_groups
 #: view:marketplace.announcement:marketplace_groups.view_marketplace_announcement_form_admin_groups
