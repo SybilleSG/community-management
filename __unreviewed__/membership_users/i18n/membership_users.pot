@@ -18,103 +18,103 @@ msgstr ""
 #. module: membership_users
 #: view:res.users:membership_users.view_users_simple_form_membership_users
 msgid "A password reset has been requested for this user. An email containing the following link has been sent:"
-msgstr ""
+msgstr "Un nouveau mot de passe a été demandé pour cet utilisateur. Un email contenant le lien suivant a été envoyé :"
 
 #. module: membership_users
 #: model:ir.model,name:membership_users.model_res_groups
 msgid "Access Groups"
-msgstr ""
+msgstr "Accès aux Groupes"
 
 #. module: membership_users
 #: code:addons/membership_users/membership_users.py:83
 #: view:res.users:membership_users.user_groups_view_simple_form
 #, python-format
 msgid "Access rights"
-msgstr ""
+msgstr "Accès aux droits"
 
 #. module: membership_users
 #: view:res.partner:membership_users.account_view_partner_form_membership_users
 msgid "Accounting"
-msgstr ""
+msgstr "Comptabilité"
 
 #. module: membership_users
 #: view:res.users:membership_users.view_users_simple_form_membership_users
 msgid "An invitation email containing the following subscription link has been sent:"
-msgstr ""
+msgstr "Un email d'invitation contenant le lien d'inscription suivant a été envoyé :"
 
 #. module: membership_users
 #: view:res.users:membership_users.user_groups_view_simple_form
 msgid "Community"
-msgstr ""
+msgstr "Communauté"
 
 #. module: membership_users
 #: view:res.partner:membership_users.view_partner_form_membership_users
 msgid "Internal Notes"
-msgstr ""
+msgstr "Notes internes"
 
 #. module: membership_users
 #: view:res.partner:membership_users.membership_view_partner_form_membership_users
 msgid "Membership"
-msgstr ""
+msgstr "Adhésion"
 
 #. module: membership_users
 #: model:res.groups,name:membership_users.group_membership_moderator
 msgid "Membership / Manage Users"
-msgstr ""
+msgstr "Adhésion / gérer les Utilisateurs"
 
 #. module: membership_users
 #: model:ir.actions.server,name:membership_users.action_membership_my_account
 #: model:ir.ui.menu,name:membership_users.menu_action_membership_my_account
 msgid "My account"
-msgstr ""
+msgstr "Mon compte"
 
 #. module: membership_users
 #: code:addons/membership_users/membership_users.py:93
 #, python-format
 msgid "Other"
-msgstr ""
+msgstr "Autre"
 
 #. module: membership_users
 #: model:ir.model,name:membership_users.model_res_partner
 msgid "Partner"
-msgstr ""
+msgstr "Partenaire"
 
 #. module: membership_users
 #: view:res.partner:membership_users.view_partner_form_membership_users
 #: field:res.partner,presentation:0
 msgid "Presentation"
-msgstr ""
+msgstr "Présentation"
 
 #. module: membership_users
 #: view:res.partner:membership_users.view_partner_form_membership_users
 msgid "Sales & Purchases"
-msgstr ""
+msgstr "Ventes & Achats"
 
 #. module: membership_users
 #: view:res.users:membership_users.view_users_simple_form_membership_users
 msgid "Send an invitation email"
-msgstr ""
+msgstr "Envoyer un email d'invitation"
 
 #. module: membership_users
 #: view:res.users:membership_users.view_users_simple_form_membership_users
 msgid "Send reset password link by email"
-msgstr ""
+msgstr "Envoyer une demande de nouveau mot de passe par email"
 
 #. module: membership_users
 #: model:ir.actions.act_window,name:membership_users.action_membership_users
 #: model:ir.ui.menu,name:membership_users.menu_action_membership_users
 msgid "Users"
-msgstr ""
+msgstr "Utilisateurs"
 
 #. module: membership_users
 #: view:res.partner:membership_users.account_view_partner_form_membership_users
 #: view:res.partner:membership_users.view_partner_form_membership_users
 msgid "account.group_account_user"
-msgstr ""
+msgstr "Compte du groupe de l'utilisateur"
 
 #. module: membership_users
 #: view:res.partner:membership_users.membership_view_partner_form_membership_users
 #: view:res.partner:membership_users.view_partner_form_membership_users
 msgid "membership_users.group_membership_moderator"
-msgstr ""
+msgstr "membership_users.group_membership_moderator"
 
